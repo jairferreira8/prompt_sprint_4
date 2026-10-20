@@ -1,6 +1,6 @@
 # Resultados do pipeline de avaliação — Sprint 04
 
-Execução: 20/10/2026 20:04 · Modelo avaliado: `qwen2.5` · Juiz: `openai/gpt-oss-120b`
+Execução: 20/10/2026 20:33 · Modelo avaliado: `llama3.2` · Juiz: `llama-3.3-70b-versatile`
 
 ## Tabela de resultados por versão
 

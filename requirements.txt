@@ -4,4 +4,4 @@ langchain-groq
 langgraph
 ollama
 python-dotenv
-reportlab
+truststore

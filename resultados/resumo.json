@@ -1,8 +1,8 @@
 {
   "info": {
-    "data": "20/10/2026 20:04",
-    "modelo": "qwen2.5",
-    "juiz": "openai/gpt-oss-120b",
+    "data": "20/10/2026 20:33",
+    "modelo": "llama3.2",
+    "juiz": "llama-3.3-70b-versatile",
     "parametros": {
       "temperatura": 0.2,
       "top_p": 0.9,

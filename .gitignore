@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+gerar_relatorio_pdf.py
+relatorio_sprint4_modelo.pdf

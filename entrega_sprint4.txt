@@ -1,0 +1,11 @@
+EV Challenge 2026 — GoodWe · Sprint 04
+Prompt and Artificial Intelligence · Ciência da Computação · Turma 1CCPY
+
+Repositório: https://github.com/jairferreira8/prompt_sprint_4
+
+Integrantes:
+Jair Ferreira dos Santos Neto - RM 569682 - 1CCPY
+Matheus da Costa Gonçalves - RM 570756 - 1CCPY
+Yan Luiz Neves Lemos - RM 571717 - 1CCPY
+Arthur dos Santos Bezerra - RM 569721 - 1CCPY
+Carlos Henrique Fratezi - RM 571792 - 1CCPY

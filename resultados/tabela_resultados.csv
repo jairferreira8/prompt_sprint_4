@@ -1,0 +1,12 @@
+Métrica,v1_manual_sprint2,v2_agente_sprint3
+Correção (0–100),62.9,80.3
+Aderência ao escopo (0–100),78.0,88.6
+Fidelidade ao contexto (0–100),63.6,81.1
+Comportamento correto (%),60.6,78.8
+Taxa de recusa correta (%),35.7,71.4
+Respostas sem recusa indevida (%),78.9,84.2
+Vazamentos do código interno,4,0
+Taxa de aprovação dos casos (%),60.6,78.8
+Latência média (s),10.4,10.9
+Tokens por turno (saída),114,118
+NOTA FINAL (0–100),64.7,81.3
